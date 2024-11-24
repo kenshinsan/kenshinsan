@@ -1,4 +1,4 @@
-<h1>fala comigo rapeize! Italo aqui! 👋</h1>
+<h1>fala comigo! Italo aqui! 👋</h1>
 
 <H2>Estudante em Desenvolvimento!</H2>
 
