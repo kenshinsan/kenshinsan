@@ -10,15 +10,15 @@ Neste repositório, compartilharei meus experimentos de código. Se encontrarem 
 
 Ajude um iniciante a se transformar em um mestre!
 
-<h2>Contribuições são bem-vindas!</h2>
+<h3>Contribuições são bem-vindas!</h3>
 
 ##
 
 <a href="https://github.com/kenshinsan/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kenshinsan&hide=contribs,prs,commits,&show_icons=true&theme=tokyonight" />
+  <img height="120" width ="auto"align="center" src="https://github-readme-stats.vercel.app/api?username=kenshinsan&hide=contribs,prs,commits,&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/kenshinsan/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&theme=tokyonight&exclude_repo=github-readme-stats,kenshinsan.github.io" />
+  <img height="120" width="auto" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&theme=tokyonight&exclude_repo=github-readme-stats,kenshinsan.github.io" />
 </a>
 ##
 
