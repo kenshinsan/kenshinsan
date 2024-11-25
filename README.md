@@ -20,6 +20,7 @@ Ajude um iniciante a se transformar em um mestre!
 </a><a href="https://github.com/kenshinsan/convoychat">
   <img height="100"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&layout=compact&sezi_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" /></a>
 </div>
+
 ##
 
 <div style="display: inline_block"><br>
