@@ -14,13 +14,12 @@ Ajude um iniciante a se transformar em um mestre!
 
 ##
 
-
+<div>
 <a href="https://github.com/kenshinsan/github-readme-stats">
   <img height="120"  align="center" src="https://github-readme-stats.vercel.app/api?username=kenshinsan&hide=contribs,prs,commits,&show_icons=true&bg_color=000000&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
 </a><a href="https://github.com/kenshinsan/convoychat">
-  <img height="100"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&layout=compact&sezi_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
-</a>
-
+  <img height="100"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&layout=compact&sezi_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" /></a>
+</div>
 ##
 
 <div style="display: inline_block"><br>
@@ -37,43 +36,4 @@ Ajude um iniciante a se transformar em um mestre!
  	<a href="https://discord.gg/xC6nkAE2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:arquivista.oficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://geek-pantheon.tech/"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a>
-</div>
-
-##
-
-<style>
-  #avatar-danca {
-    position: relative;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    overflow: hidden;
-    margin: 10px auto;
-    animation: danca 3s infinite; /* reduzi o tempo de animação para 3 segundos */
-    border: 5px solid #ffffff;
-  }
-  #avatar-danca img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  @keyframes danca {
-    0% { transform: translateX(-50px); } /* aumentei o alcance da animação para -50px */
-    25% { transform: translateX(50px); } /* aumentei o alcance da animação para 50px */
-    50% { transform: translateX(-50px); } /* aumentei o alcance da animação para -50px */
-    75% { transform: translateX(50px); } /* aumentei o alcance da animação para 50px */
-    100% { transform: translateX(-50px); } /* aumentei o alcance da animação para -50px */
-  }
-  #titulo-avatar {
-    text-align: center;
-    font-weight: bold;
-    font-size: 18px;
-    margin-bottom: 10px;
-  }
-</style>
-
-<h1 id="titulo-avatar">Logo dançante 😋</h1>
-
-<div id="avatar-danca">
-  <img src="https://3a95d1a711.cbaul-cdnwnd.com/4faea8d383f1fd983967e70e0f7c5920/200000296-551ff55201/700/1000002449.webp?ph=3a95d1a711" alt="Avatar" />
 </div>
