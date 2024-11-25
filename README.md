@@ -16,9 +16,9 @@ Ajude um iniciante a se transformar em um mestre!
 
 
 <a href="https://github.com/kenshinsan/github-readme-stats">
-  <img height="120" width="200" align="center" src="https://github-readme-stats.vercel.app/api?username=kenshinsan&hide=contribs,prs,commits,&show_icons=true&bg_color=000000&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
+  <img height="120"  align="center" src="https://github-readme-stats.vercel.app/api?username=kenshinsan&hide=contribs,prs,commits,&show_icons=true&bg_color=000000&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
 </a><a href="https://github.com/kenshinsan/convoychat">
-  <img height="200"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&layout=compact&sezi_weight=0.5&count_weight=0.5&langs_count=8&theme=tokyonight" />
+  <img height="200"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&layout=compact&sezi_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
 </a>
 
 ##
