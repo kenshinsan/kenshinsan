@@ -16,6 +16,12 @@ Ajude um iniciante a se transformar em um mestre!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenshinsan&hide=contribs,prs,commits,&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&theme=tokyonight&exclude_repo=github-readme-stats,kenshinsan.github.io)
+<a href="https://github.com/kenshinsan/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kenshinsan&hide=contribs,prs,commits,&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/kenshinsan/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&theme=tokyonight&exclude_repo=github-readme-stats,kenshinsan.github.io" />
+</a>
 ##
 
 <div style="display: inline_block"><br>
