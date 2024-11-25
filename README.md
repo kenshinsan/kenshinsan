@@ -19,7 +19,9 @@ Nesta conta compartilharei meus experimentos de código 💻. Se encontrar erros
   <img height="150"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&layout=compact&sezi_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&bg_color=ffffff&icon_color=ffffff&border_color=dc143c&locale=pt-br" /></a>
 </div>
 
-## linguagens que estou estudando! 😭
+##
+
+<h1>linguagens que estou estudando! 😭</h1>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kenshin html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -28,7 +30,9 @@ Nesta conta compartilharei meus experimentos de código 💻. Se encontrar erros
   <img align="center" alt="Kenshin Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg">
 </div>
 
-## Se voce quiser, pode me encontrar aqui! 👇
+##
+
+<h1>Se voce quiser, pode me encontrar aqui! 👇</h1>
 
 <div> 
   <a href="https://youtube.com/@geekpantheon?si=QNUHlEcIJETv9-7r" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
