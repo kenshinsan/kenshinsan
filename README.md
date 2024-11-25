@@ -15,7 +15,7 @@ Ajude um iniciante a se transformar em um mestre!
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenshinsan&hide=contribs,prs,commits,&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&exclude_repo=github-readme-stats,kenshinsan.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&theme=tokyonight&exclude_repo=github-readme-stats,kenshinsan.github.io)
 ##
 
 <div style="display: inline_block"><br>
