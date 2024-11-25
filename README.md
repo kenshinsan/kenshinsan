@@ -1,16 +1,14 @@
-<h1>fala comigo! Italo aqui! 👋</h1>
+## Estudante em Desenvolvimento! 📚
 
-<H2>Estudante em Desenvolvimento!</H2>
+<h2>Olá, comunidade dev! 👋</h2>
 
-Olá, comunidade dev!
+ Estou mergulhado em estudos intensos 📖, mas logo estarei pronto para decolar! 🎉
 
-Estou mergulhado em estudos intensos, mas logo estarei pronto para decolar!
+Nesta conta compartilharei meus experimentos de código 💻. Se encontrar erros ou espaço para melhorar, adoraria receber seus conselhos! 🤔
 
-Neste repositório, compartilharei meus experimentos de código. Se encontrarem erros ou espaço para melhoria, adoraria receber seus conselhos!
+<h3>Contribuições são bem-vindas! 🤝</h3>
 
-Ajude um iniciante a se transformar em um mestre!
-
-<h3>Contribuições são bem-vindas!</h3>
+<h4>Obrigado! 🙏</h4>
 
 ##
 
@@ -18,7 +16,7 @@ Ajude um iniciante a se transformar em um mestre!
 <a href="https://github.com/kenshinsan/github-readme-stats">
   <img height="150"  align="center" src="https://github-readme-stats.vercel.app/api?username=kenshinsan&hide=contribs,prs,commits,&show_icons=true&bg_color=000000&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" />
 </a><a href="https://github.com/kenshinsan/convoychat">
-  <img height="150"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&layout=compact&sezi_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&icon_color=ffffff&border_color=dc143c&locale=pt-br" /></a>
+  <img height="150"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenshinsan&layout=compact&sezi_weight=0.5&count_weight=0.5&langs_count=8&title_color=dc143c&text_color=dc143c&bg_color=ffffff&icon_color=ffffff&border_color=dc143c&locale=pt-br" /></a>
 </div>
 
 ##
